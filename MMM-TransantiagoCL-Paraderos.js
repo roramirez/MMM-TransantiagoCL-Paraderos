@@ -137,7 +137,7 @@ Module.register("MMM-TransantiagoCL-Paraderos",{
 					}
 				}
 			}
-			wrapper.append(table);
+			wrapper.appendChild(table);
 		}
 		return wrapper;
 	},
