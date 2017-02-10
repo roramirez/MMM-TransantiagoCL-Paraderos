@@ -1,6 +1,6 @@
 {
   "name": "MMM-TransantiagoCL-Paraderos",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Show public transport information bus stop Transantiago Chile",
   "main": "MMM-TransantiagoCL-Paraderos.js",
   "author": "Rodrigo Ramírez Norambuena",
