@@ -1,12 +1,14 @@
 # MMM-TransantiagoCL-Paraderos
-This a module for the [MagicMirror](https://github.com/MichMich/MagicMirror). It will show photos from a directory.
+This a module for the [MagicMirror](https://github.com/MichMich/MagicMirror). 
 
-This module read the upload directory and show images from there.
+This module show public transport information bus stop Transantiago Chile
 
 
 ## Installation
 1. Clone this repository inside your MagicMirror's `modules` folder
+
    `cd ~/MagicMirror/modules`
+
    `git clone https://github.com/roramirez/MMM-TransantiagoCL-Paraderos.git`.
 
 ## How show it
