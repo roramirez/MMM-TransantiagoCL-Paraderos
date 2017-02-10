@@ -26,10 +26,10 @@ Here is an example of an entry in `config.js`
 ```
 {
 	module: 'MMM-TransantiagoCL-Paraderos',
-    position: "left",
+	position: "top_left",
 	config: {
-		busStop: ["PG203", "PJ43"]
-		updateInterval: 30000,
+		busStop: ["PG203", "PJ43"],
+		updateInterval: 30000
 	}
 },
 ```
